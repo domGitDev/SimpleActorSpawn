@@ -24,6 +24,15 @@
 				"Win64",
 				"Mac"
 			]
+        },
+        {
+            "Name" : "SimpleActorSpawnEditor",
+            "Type" : "Editor",
+            "LoadingPhase" : "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
         }
     ]
 }
