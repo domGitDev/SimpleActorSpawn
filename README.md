@@ -1,4 +1,4 @@
-# SimpleSpawnActor
+# SimpleSpawnActor Plugin - UE5
 
 Simple plugin that spawn actor at origin from given static mesh asset
 
