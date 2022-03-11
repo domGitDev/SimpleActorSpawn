@@ -1,0 +1,29 @@
+{
+    "FileVersion" : 3,
+    "Version" : 1,
+    "VersionName" : "1.0",
+    "FriendlyName" : "Simple Actor Spawn",
+    "Description" : "Simple plugin that spawn actor from select asset.",
+    "Category" : "Examples",
+    "CreatedBy" : "Dom Silva",
+    "CreatedByURL" : "",
+    "DocsURL" : "",
+    "MarketplaceURL" : "",
+    "SupportURL" : "",
+    "EnabledByDefault" : true,
+    "CanContainContent" : false,
+    "IsBetaVersion" : false,
+    "Installed" : false,
+    "Modules" :
+    [
+        {
+            "Name" : "SimpleActorSpawn",
+            "Type" : "Editor",
+            "LoadingPhase" : "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+        }
+    ]
+}
